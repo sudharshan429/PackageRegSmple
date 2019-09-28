@@ -1,0 +1,2 @@
+include ':app', ':samplelib'
+rootProject.name='PackageRegSmple'
